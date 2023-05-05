@@ -11,4 +11,6 @@ sino en muchos, los cuales pasamos como entrada. Vamos a calcular los 3 ciclos d
 En el tercer ejercicio suponemos que los datos del grafo se encuentran repartidos en múltiples ficheros. Queremos
 calcular los 3-ciclos, pero de manera independiente para cada fichero.
 
+Para la función relation, necesaria en los 3 ejercios, hemos seguido las indicaciones dadas en el enunciado.
+
 Los archivos txt con el contenido de los grafos con, los cuales han servido de prueba están asjuntados.
