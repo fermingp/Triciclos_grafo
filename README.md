@@ -13,4 +13,4 @@ calcular los 3-ciclos, pero de manera independiente para cada fichero.
 
 Para la función relation, necesaria en los 3 ejercicios, hemos seguido las indicaciones dadas en el enunciado.
 
-Los archivos txt con el contenido de los grafos con, los cuales han servido de prueba están asjuntados.
+Los archivos txt con el contenido de los grafos, los cuales han servido de prueba están adjuntados.
